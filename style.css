@@ -1,0 +1,60 @@
+h1{
+    text-align: center;
+}
+.manu
+{
+    color:#ffff;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+.s input
+{
+    height: 15px;
+    width: 50%;
+}
+.k 
+{
+    color:#ffff;
+    
+}
+.c button
+{
+    width: 50%;
+    background-color: blue;
+    
+}
+.r img
+{
+    width: 20%;
+}
+hr
+{
+    width: 100%;
+}
+.m 
+{
+    color: #ffff;
+}
+.anu
+{
+    height: 550px;
+    width: 30%;
+    background-image: linear-gradient(-45deg,#f41616,#94146e,#e3b418,#351fb2);
+    margin-top: 70px;
+}
+.r span
+{
+    color: #ffff;
+}
+.x a
+{
+    color: #070320;
+}
+.m a
+{
+    color: #ffff;
+}
+.new{
+    color: #1a0688;
+    font-size: 20px;
+}
